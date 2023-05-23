@@ -114,6 +114,7 @@ body {
 .top-nav .lists ul li a:hover {
     padding-left: 25px;
     background-color: var(--nav-color);
+    color: var(--buttom-nav-color);
 }
 
 .top-nav .lists .usd {
